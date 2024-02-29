@@ -1,0 +1,37 @@
+body{
+    color: black;
+    background-color: bisque;
+}
+h3{
+    color: crimson;
+}
+h2{
+    color: darkgoldenrod;
+}
+#outer{
+    max-width: 800px;;
+    height: fit-content;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
+#image{
+    max-width: 780px;
+    height: 380px;
+    border-radius: 10px;   
+}
+#pretime{
+    background-color: rgb(247, 235, 247);
+    padding: 20px;
+    border-radius: 10px;
+}
+td{
+    width: 350px;
+    border: 1px solid rgba(0,0,0,0.5);
+    padding: 3px;
+    color: darkgoldenrod;
+}
+strong{
+    color: darkgoldenrod;    
+}
